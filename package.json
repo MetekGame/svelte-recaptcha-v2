@@ -12,7 +12,7 @@
     "main": "./dist/index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/beyowi/svelte-recaptcha-v2.git"
+        "url": "git+https://github.com/MetekGame/svelte-recaptcha-v2.git"
     },
     "keywords": [
         "svelte",
@@ -20,17 +20,17 @@
         "recaptcha",
         "v2"
     ],
-    "author": "Beyowi",
+    "author": "Beyowi; Edit by: MetekGame Team ",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/beyowi/svelte-recaptcha-v2/issues"
+        "url": "https://github.com/MetekGame/svelte-recaptcha-v2/issues"
     },
     "files": [
         "src",
         "dist"
     ],
     "type": "module",
-    "homepage": "https://github.com/beyowi/svelte-recaptcha-v2#readme",
+    "homepage": "https://github.com/MetekGame/svelte-recaptcha-v2#readme",
     "devDependencies": {
         "@rollup/plugin-commonjs": "^21.0.0",
         "@rollup/plugin-node-resolve": "^13.0.5",
